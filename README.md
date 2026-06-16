@@ -11,7 +11,7 @@
 **An AI-powered web app that predicts diseases from symptoms using a trained Extra Trees Classifier.**
 The entire model runs **100% in your browser** — no server, no Python, no installation needed.
 
-[🚀 Live Demo](#) &nbsp;·&nbsp; [📂 GitHub Repo](#) &nbsp;·&nbsp; [🐛 Report Bug](#)
+[🚀 Live Demo](#) &nbsp;·&nbsp; [📂 GitHub Repo]() &nbsp;·&nbsp; 
 
 </div>
 
