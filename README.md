@@ -9,9 +9,9 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 **An AI-powered web app that predicts diseases from symptoms using a trained Extra Trees Classifier.**
-The entire model runs **100% in your browser** — no server, no Python, no installation needed.
+The entire model runs **100% in your browser** 
 
-[🚀 Live Demo](#) &nbsp;·&nbsp; [📂 GitHub Repo]() &nbsp;·&nbsp; 
+[🚀 Live Demo](https://symptoms-to-disease-predictor.vercel.app/) &nbsp;·&nbsp; [📂 GitHub Repo](https://github.com/vamshi-angiraka/Symptoms-to-Disease-Predictor) &nbsp;·&nbsp; 
 
 </div>
 
@@ -70,56 +70,6 @@ mediscan/
 
 ---
 
-## ▶️ Run Locally (Zero Setup)
-
-No installation needed whatsoever.
-
-```
-1. Download and unzip the project
-2. Open the  mediscan/  folder
-3. Double-click  public/index.html
-4. It opens in your browser and works instantly ✅
-```
-
-> The entire ML model is embedded inside `index.html` and runs as JavaScript. No Python required.
-
----
-
-## ☁️ Deploy to Vercel
-
-### Step 1 — Push to GitHub
-
-```bash
-# Navigate into the project folder
-cd mediscan
-
-# Initialize git
-git init
-git add .
-git commit -m "Initial commit: MediScan Symptom Disease Predictor"
-
-# Create a new repo on github.com, then connect it:
-git remote add origin https://github.com/YOUR_USERNAME/mediscan.git
-git branch -M main
-git push -u origin main
-```
-
-### Step 2 — Deploy on Vercel
-
-1. Go to **[vercel.com](https://vercel.com)** and sign in with GitHub
-2. Click **"Add New Project"**
-3. Select your `mediscan` repository
-4. Leave all settings as default — Vercel auto-reads `vercel.json`
-5. Click **"Deploy"**
-
-Your live URL will be:
-```
-https://mediscan-YOUR_USERNAME.vercel.app
-```
-
-> Since the app is a single static HTML file, deployment completes in under 30 seconds.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -136,11 +86,5 @@ https://mediscan-YOUR_USERNAME.vercel.app
 
 ---
 
-## ⚠️ Medical Disclaimer
 
-> This tool is built for **educational and academic purposes only**.
-> It does **not** provide medical advice, diagnosis, or treatment.
-> Always consult a qualified and licensed healthcare professional for any medical concerns.
-
----
 
