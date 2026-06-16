@@ -1,7 +1,3 @@
-"""
-api/predict.py
-FastAPI backend — deployed as Vercel serverless function.
-"""
 
 import os
 import sys
